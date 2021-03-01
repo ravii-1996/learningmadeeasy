@@ -3,7 +3,6 @@ insert into learning_made_easy.student values(2, "ravi", "email2");
 insert into learning_made_easy.student values(3, "shubham", "email3");
 insert into learning_made_easy.student values(4, "sagar", "email4");
 
-
 insert into learning_made_easy.teacher_details values(1, "about1", "achievements1", "myobjectives1", "myobjectives2", "expert1@@expert2");
 insert into learning_made_easy.teacher_details values(2, "about2", "achievements2", "myobjectives1", "myobjectives2", "expert1@@expert2");
 insert into learning_made_easy.teacher_details values(3, "about3", "achievements3", "myobjectives1", "myobjectives2", "expert1@@expert2");
